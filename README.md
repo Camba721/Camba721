@@ -1,4 +1,6 @@
-## Hi there 👋
+![fondoGITHUB](https://github.com/user-attachments/assets/cb717734-1cb4-41c1-92e8-b484f7046ac3)
+
+## Hola, estoy encantado de que visites mi repositorio! 👋
 
 <!--
 **Camba721/Camba721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
