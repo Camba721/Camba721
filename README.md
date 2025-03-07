@@ -3,6 +3,12 @@
 <br>
 <h1 align="center"><b>Hola, Gracias por visitar mi repo!  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
+<p>¡Bienvenido!. Soy Juan José Benítez (Juanjo), un apasionado de la tecnología con experiencia en múltiples lenguajes de programación, inclinándome hacia Java, Cobol y Python, así como en el desarrollo de sistemas de gestión y soluciones innovadoras. A lo largo de mi trayectoria, he adquirido conocimientos en diversas tecnologías, lo que me permite combinarlas estratégicamente para crear soluciones efectivas.
+
+Me motiva participar en cada etapa del desarrollo de software, desde la primera reunión con los interesados hasta las pruebas finales. Actualmente, estoy profundizando en ciberseguridad, especializándome en análisis de penetración para fortalecer la seguridad de los sistemas.
+
+🚀 Siempre en busca de nuevos desafíos y oportunidades para aprender.</p>
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
