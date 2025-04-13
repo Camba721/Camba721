@@ -1,7 +1,7 @@
 ![fondoGITHUB](https://github.com/user-attachments/assets/cb717734-1cb4-41c1-92e8-b484f7046ac3)
 <br>
 <br>
-<h1 align="center"><b>Hola, Gracias por visitar mi repo!  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola !  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 <p>¡Bienvenido!. Soy Juan José Benítez (Juanjo), un apasionado de la tecnología con experiencia en múltiples lenguajes de programación, inclinándome hacia Java, Cobol y Python, así como en el desarrollo de sistemas de gestión y soluciones innovadoras. A lo largo de mi trayectoria, he adquirido conocimientos en diversas tecnologías, lo que me permite combinarlas estratégicamente para crear soluciones efectivas.
 
